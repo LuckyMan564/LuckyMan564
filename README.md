@@ -25,11 +25,8 @@
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
@@ -37,22 +34,15 @@
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
 
 <h1 align="center">💫 My🌟BEST🌟 SKILLS</h1>
@@ -88,10 +78,6 @@
       <br>Babel
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-      <br>Three.js
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
       <br>Solidity
     </td>
@@ -99,13 +85,13 @@
       <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="wordpress" />
       <br>WordPress
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
       <br>JavaScript
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=jquery" alt="icon" width="55" height="55" />
       <br>Jquery
@@ -123,10 +109,6 @@
       <br>Redux
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="55" height="55" />
-      <br>Gatsby
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
       <br>Vue
     </td>
@@ -142,24 +124,16 @@
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
       <br>Express
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="nestjs" />
       <br>Nest
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="45" height="45" alt="GraphQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=apollo" width="45" height="45" alt="Apollo" />
-      <br>Apollo
-    </td>
-    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
       <br>RESTful API
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=fastapi" alt="icon" width="55" height="55" />
       <br>FastAPI
@@ -181,55 +155,9 @@
       <br>Laravel
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=d3" width="45" height="45" alt="D3.js" />
-      <br>D3.js
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Next.js" />
-      <br>Rust
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Next.js" />
-      <br>Golang
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=actix" width="45" height="45" alt="Next.js" />
-      <br>Actix
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="Next.js" />
-      <br>GCP
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kafka" width="45" height="45" alt="Next.js" />
-      <br>Kafka
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cypress" width="45" height="45" alt="Next.js" />
-      <br>Cypress
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=electron" width="45" height="45" alt="electron" />
-      <br>Electron
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="firebase" />
       <br>Firebase
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rabbitmq" width="45" height="45" alt="Next.js" />
-      <br>RabbitMQ
-    </td>
-  </tr>
-
-  <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
       <br>MySQL
@@ -246,6 +174,8 @@
       <img src="https://skillicons.dev/icons?i=redis" alt="icon" width="55" height="55" />
       <br>Redis
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
       <br>SQLite
@@ -259,19 +189,9 @@
       <br>Docker
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Next.js" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
       <br>Java
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Next.js" />
-      <br>Ruby
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
       <br>C#
@@ -283,14 +203,6 @@
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
       <br>Github
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="55" height="55" />
-      <br>Jest
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="55" height="55" />
-      <br>Prettier
     </td>
   </tr>
 </table>
