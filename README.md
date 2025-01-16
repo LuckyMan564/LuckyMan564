@@ -221,12 +221,6 @@
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 </a>
   
-<p align="center">
-  <a href="https://github.com/LuckyMan564?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=LuckyMan564&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="LuckyMan's github-readme-streak-stats"/>
-  </a>
-</p>
-
 <div align='center' width='100%'>
   <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyMan564&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
   <a width='50%' href="https://github.com/smartcoder0310?tab=achievements">
