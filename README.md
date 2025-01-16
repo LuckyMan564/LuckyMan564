@@ -3,8 +3,8 @@
 <h1 align="center">My professional journey is everything you never knew you wanted to know about!</h1>
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@smartcoder0310">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=smartcoder0310&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://wakatime.com/@LuckyMan564">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuckyMan564&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 
@@ -214,7 +214,7 @@
 
 <!-- detail information -->
 <div align="center" >
-<a  href="https://github.com/smartcoder0310">
+<a  href="https://github.com/LuckyMan564">
 
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
@@ -222,15 +222,15 @@
 </a>
   
 <p align="center">
-  <a href="https://github.com/smartcoder0310?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=smartcoder0310&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@CryptoNinja's github-readme-streak-stats"/>
+  <a href="https://github.com/LuckyMan564?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=LuckyMan564&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="LuckyMan's github-readme-streak-stats"/>
   </a>
 </p>
 
 <div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartcoder0310&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyMan564&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
   <a width='50%' href="https://github.com/smartcoder0310?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=smartcoder0310&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@CryptoNinja's trophy stats"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=LuckyMan564&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="LuckyMan's trophy stats"/>
   </a>
 </div>
 </div>
